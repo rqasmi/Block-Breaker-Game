@@ -10,7 +10,7 @@ First Place Winner for implementation of arcade game Brick Breaker using an MVC 
 
 ### Overview
 
-The goal of the project was to create an implementation of the Brick Breaker game with all functionalities. The application must support an Admin EX flow as well as a Player EX flow. The admin creates the games, assigns blocks (position, color, etc) and assigns other various game settings (speed increase factor, paddle size...) The player can then join in these games, with lives, competing on a level from 1-99 at a time and try to have the best score in the Hall of Fame. All functionalities from a classic brick breaker game must be present, i.e. the ball must be able to collide off walls, paddle, and hit the blocks. 
+The goal of the project was to create an implementation of the Brick Breaker game with all functionalities. The application must support an Admin EX flow as well as a Player EX flow. The admin creates the games, assigns blocks (position, color, etc) and assigns other various game settings (speed increase factor, paddle size...) The player can then join in these games, with lives, competing on a level from 1-99 at a time and try to have the best score in the Hall of Fame. All functionalities from a classic block breaker game must be present, i.e. the ball must be able to collide off walls, paddle, and hit the blocks. 
 
 The application was built employing a Model-View-Controller pattern using Java and the Swing Framework for the GUI. The following technical tools were essential in our development: 
 * WindowBuilder - an eclipse graphical plugin that automatically generates Swing components
